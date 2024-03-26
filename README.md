@@ -1,1 +1,1 @@
-Arduino ile kurulabilecek devreler için gerekli kodları sizlerle paylaşıyorum.
+Arduino ile kurulabilecek devrelerin gerekli kodlarını sizlerle paylaşıyorum.
